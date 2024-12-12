@@ -6,6 +6,9 @@ A polyfill for the new Layout protocol from iOS 16. Supports iOS 14 and above, o
 
 You can find the documentation at [placement.sampettersson.com](https://placement.sampettersson.com/)
 
+Perfectly works with WrappingHStack (FlowLayout):
+https://github.com/ksemianov/WrappingHStack
+
 ## Installation
 
 #### [Swift Package Manager](https://developer.apple.com/documentation/xcode/adding-package-dependencies-to-your-app)
